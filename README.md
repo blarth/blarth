@@ -5,5 +5,6 @@
  ### 💞️ I’m looking to collaborate on any Python or JS Code
  ### 😲 Fun fact, I used to speedrun DarkSouls
  ### 📫 How to reach me +55169994476161
+ ![](https://komarev.com/ghpvc/?username=your-github-username)
  
  ![Snake animation](https://github.com/blarth/blarth/blob/output/github-contribution-grid-snake.svg)
