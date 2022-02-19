@@ -7,7 +7,7 @@
  ### 📫 How to reach me +55169994476161
  ![](https://komarev.com/ghpvc/?username=blarth)
  
- <div style="display: inline_block"><br>
+ <div style="display: inline_block" "margin-bottom : 15"><br>
   <h2>Languages e tools 🛠</h2>
   <img align="center" alt="Bernardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bernardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
