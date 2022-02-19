@@ -20,7 +20,13 @@
   <img align="center" alt="Bernardo-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blarth)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blarth&hide=Jupyter%20Notebook&layout=compact&langs_count=8&theme=dracula"/>
+
+<div style="display: flex" align="center">
+  <h2 align="center">My github stats!<h2>
+  <a href="https://github.com/Bernardo-Rodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blarth&hide=Jupyter%20Notebook&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
  
  ![Snake animation](https://github.com/blarth/blarth/blob/output/github-contribution-grid-snake.svg)
