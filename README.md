@@ -21,9 +21,9 @@
 
 <div style="display: flex" align="center">
   <h2 align="center">My github stats!<h2>
-  <a href="https://github.com/Bernardo-Rodrigues">
+  <a href="https://github.com/blarth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blarth&hide=TeX&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blarth&hide=TeX&&Html&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
  
