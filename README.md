@@ -1,5 +1,5 @@
  # 👋 Hello world!! 
- ## I’m João Marcos ou @blarth.
+ ## I’m João Marcos or @blarth.
  ### 👀 I’m interested in Python, JavaScript, React, Games, E-sport
  ### 🌱 I’m currently learning Full-stack Skills.
  ### 💞️ I’m looking to collaborate on any React or NodeJS code.
@@ -23,7 +23,7 @@
   <h2 align="center">My github stats!<h2>
   <a href="https://github.com/Bernardo-Rodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blarth&hide=Jupyter%20Notebook&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blarth&hide=TeX&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
  
