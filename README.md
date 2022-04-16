@@ -1,7 +1,7 @@
  # 👋 Hello world!! 
  ## I’m João Marcos or @blarth.
  ### 👀 I’m interested in Python, JavaScript, React, Games, E-sport
- ### 🌱 I’m currently learning Full-stack Skills.
+ ### 🌱 I’m currently learning TypeScript and Clean Code.
  ### 💞️ I’m looking to collaborate on any React or NodeJS code.
  ### 😲 Fun fact, I used to speedrun DarkSouls!
  ### 📫 How to reach me +55169994476161
