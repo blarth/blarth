@@ -4,11 +4,11 @@
  ### 🌱 I’m currently learning Docker and AWS.
  ### 💞️ I’m looking to collaborate on any React or NodeJS code.
  ### 😲 Fun fact, I used to speedrun DarkSouls!
- ### 📫 How to reach me +55169994476161
  ![](https://komarev.com/ghpvc/?username=blarth)
  
  <div style="display: inline_block" "margin-bottom : 15"><br>
-  ## Technologies 
+
+## **Technologies** 
 
 #### **Front-end**
 
@@ -41,11 +41,16 @@
  
 
 <div style="display: flex" align="center">
-  <h2 align="center">My github stats!<h2>
+  <h2 align="center">My github stats!</h2>
   <a href="https://github.com/blarth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blarth&hide=TeX&exclude_repo=estudos_git&layout=compact&langs_count=8&theme=dracula"/>
+   <h2 align="center">How to contact me!</h2>
+   <a href = "mailto:jminocente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/joão-marcos-inocente-pavão-899961142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+   
+ 
 
  
  ![Snake animation](https://github.com/blarth/blarth/blob/output/github-contribution-grid-snake.svg)
