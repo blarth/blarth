@@ -3,7 +3,7 @@
  ### 👀 I’m interested in Python, JavaScript, React, Games, E-sport
  ### 🌱 I’m currently learning Docker and AWS.
  ### 💞️ I’m looking to collaborate on any React or NodeJS code.
- ### 😲 Fun fact, I used to speedrun DarkSouls!
+ ### 😲 Fun fact, I used to play professional Heroes of Newerth!
  ![](https://komarev.com/ghpvc/?username=blarth)
  
  <div style="display: inline_block" "margin-bottom : 15"><br>
