@@ -1,7 +1,7 @@
  # 👋 Hello world!! 
  ## I’m João Marcos or @blarth.
  ### 👀 I’m interested in Python, JavaScript, React, Games, E-sport
- ### 🌱 I’m currently learning Leadership skill and NextJS.
+ ### 🌱 I’m currently learning Leadership skill, NextJS and GO.
  ### 💞️ I’m looking to collaborate on any React or NodeJS code.
  ### 😲 Fun fact, I used to play professional Heroes of Newerth!
  ![](https://komarev.com/ghpvc/?username=blarth)
