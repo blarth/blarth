@@ -1,9 +1,9 @@
  # 👋 Hello world!! This line won't change ever! 💚 
  ## I’m João Marcos Inocente or @blarth.
  ### ☄️ I love Programming, Games, E-sports.
- ### 👩‍🔬 I’m currently learning Micro-service pattern, GoLang, NestJS, Apache Kafka, Kubernetes, gRPC, Next.js 13.
+ ### 👩‍🔬 I’m currently learning Software Architecture and Golang.
  ### 🤾 I’m looking to collaborate on any TypeScript, GoLang, Python code.
- ### 🤹 Fun fact, I'm now a rogue-lite dice-deck-builder gamer!
+ ### 🤹 Fun fact, what goes best with e-sports for me? Bets!
  ![](https://komarev.com/ghpvc/?username=blarth)
  
  <div style="display: inline_block" "margin-bottom : 15"><br>
