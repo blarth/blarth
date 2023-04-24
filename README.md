@@ -1,7 +1,7 @@
  # 👋 Hello world!! This line won't change ever! 💚 
  ## I’m João Marcos Inocente or @blarth.
  ### ☄️ I love Programming, Games, E-sports.
- ### 👩‍🔬 I’m currently learning Software Architecture and Golang.
+ ### 👩‍🔬 I’m currently learning Software Architecture(DDD 24/04) and Golang.
  ### 🤾 I’m looking to collaborate on any TypeScript, GoLang, Python code.
  ### 🤹 Fun fact, what goes best with e-sports for me? Bets!
  ![](https://komarev.com/ghpvc/?username=blarth)
