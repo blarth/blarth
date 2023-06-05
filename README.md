@@ -1,12 +1,13 @@
- # 👋 Hello world!! This line won't change ever! 💚 
- ## I’m João Marcos Inocente or @blarth.
- ### ☄️ I love Programming, Games, E-sports.
- ### 👩‍🔬 I’m currently learning Software Architecture(Hexagonal Arch 29/05) and Golang(Multi-thread).
- ### 🤾 I’m looking to collaborate on any TypeScript, GoLang, Python code.
- ### 🤹 Fun fact, what goes best with e-sports for me? Bets!
- ![](https://komarev.com/ghpvc/?username=blarth)
- 
- <div style="display: inline_block" "margin-bottom : 15"><br>
+# 👋 Hello world!! This line won't change ever! 💚 
+
+## I’m João Marcos Inocente, also known as @blarth.
+### ☄️ I love Programming, Games, and E-sports.
+### 👩‍🔬 I’m currently learning Software Architecture (Hexagonal Arch, 29/05) and Golang (Multi-thread).
+### 🤾 I’m looking to collaborate on any TypeScript, GoLang, or Python code.
+### 🤹 Fun fact, what goes best with e-sports for me? Bets!
+![](https://komarev.com/ghpvc/?username=blarth)
+
+<div style="display: inline_block; margin-bottom: 15px;"><br>
 
 ## **Technologies** 
 
@@ -23,10 +24,12 @@
 ![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 #### **Tools**
 
@@ -35,22 +38,23 @@
 ![NPM](https://img.shields.io/badge/NPM-FFF?style=for-the-badge&logo=npm)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-%2300AEEF?style=for-the-badge)
+![Event Storming](https://img.shields.io/badge/Event%20Storming-%23F05A3B?style=for-the-badge)
+![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-%232B2D42?style=for-the-badge)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-%232B2D42?style=for-the-badge)
 
-  
 </div>
- 
 
 <div style="display: flex" align="center">
-  <h2 align="center">My github stats!</h2>
+  <h2 align="center">My GitHub stats!</h2>
   <a href="https://github.com/blarth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blarth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blarth&hide=TeX&exclude_repo=estudos_git&layout=compact&langs_count=8&theme=dracula"/>
    <h2 align="center">How to contact me!</h2>
-   <a href = "mailto:jminocente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:jminocente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/joão-marcos-inocente-pavão-899961142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-   
- 
 
- 
- ![Snake animation](https://github.com/blarth/blarth/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/blarth/blarth/blob/output/github-contribution-grid-snake.svg)
