@@ -2,7 +2,7 @@
 
 ## I’m João Marcos Inocente, also known as @blarth.
 ### ☄️ I love Programming, Games, and E-sports.
-### 👩‍🔬 I’m currently learning Software Architecture (Hexagonal Arch, 29/05) and Golang (Multi-thread).
+### 👩‍🔬 I’m currently learning Software Architecture (Clean Arch, 07/07) and Golang (Multi-thread).
 ### 🤾 I’m looking to collaborate on any TypeScript, GoLang, or Python code.
 ### 🤹 Fun fact, what goes best with e-sports for me? Bets!
 ![](https://komarev.com/ghpvc/?username=blarth)
