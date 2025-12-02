@@ -2,7 +2,7 @@
 
 ## I’m João Marcos Inocente, also known as @blarth.
 ### ☄️ I love Programming, Games, and E-sports.
-### 👩‍🔬 I’m currently learning Software Architecture (Monoliths, 03/03/2024) and Golang.
+### 👩‍🔬 I’m currently learning Enterprise Core with Tech (02/12/2025).
 ### 🤾 I’m looking to collaborate on any TypeScript, GoLang, Java or Python code.
 ### 🤹 Fun fact, what goes best with e-sports for me? Bets!
 ![](https://komarev.com/ghpvc/?username=blarth)
